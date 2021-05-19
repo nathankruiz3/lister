@@ -1,0 +1,39 @@
+.purchase {
+  background-color: rgba(0, 128, 0, 0.459);
+  padding-left: 10px;
+  margin-left: 10px;
+}
+
+.expense {
+  background-color: rgba(255, 0, 0, 0.445);
+  padding-left: 10px;
+  margin-left: 10px;
+}
+
+.pointer {
+  cursor: pointer;
+}
+
+.pointer:active {
+  margin: 0px 10px;
+}
+
+.item-title {
+  font-size: 16px;
+  margin: 2px;
+  padding: 0px;
+}
+
+.item-price {
+  font-size: 18px;
+  font-weight: 600;
+  padding: 0px 0px 0px 10px;
+  margin: 2px;
+}
+
+.item-description {
+  font-size: 14px;
+  font-weight: 300;
+  color: rgba(0, 0, 0, 0.488);
+  padding: 2px 5px;
+}
