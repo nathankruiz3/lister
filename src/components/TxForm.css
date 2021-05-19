@@ -1,0 +1,14 @@
+.modal {
+  position: fixed;
+  top: 25%;
+  left: 25%;
+  width: 50%;
+  background-color: rgb(214, 214, 214);
+  padding: 35px 45px;
+  border-radius: 25px;
+  z-index: 3;
+}
+
+.invisible {
+  visibility: hidden;
+}
